@@ -1,0 +1,11 @@
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\IbrahimAlradaddiAssignment1\IbrahimAlradaddiAssignment1\bin\Debug\IbrahimAlradaddiAssignment1.exe.config
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\IbrahimAlradaddiAssignment1\IbrahimAlradaddiAssignment1\bin\Debug\IbrahimAlradaddiAssignment1.exe
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\IbrahimAlradaddiAssignment1\IbrahimAlradaddiAssignment1\bin\Debug\IbrahimAlradaddiAssignment1.pdb
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\IbrahimAlradaddiAssignment1\IbrahimAlradaddiAssignment1\bin\Debug\IbrahimAlradaddiAssignment1.xml
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\IbrahimAlradaddiAssignment1\IbrahimAlradaddiAssignment1\obj\Debug\IbrahimAlradaddiAssignment1.vbprojAssemblyReference.cache
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\IbrahimAlradaddiAssignment1\IbrahimAlradaddiAssignment1\obj\Debug\IbrahimAlradaddiAssignment1.Resources.resources
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\IbrahimAlradaddiAssignment1\IbrahimAlradaddiAssignment1\obj\Debug\IbrahimAlradaddiAssignment1.vbproj.GenerateResource.cache
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\IbrahimAlradaddiAssignment1\IbrahimAlradaddiAssignment1\obj\Debug\IbrahimAlradaddiAssignment1.vbproj.CoreCompileInputs.cache
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\IbrahimAlradaddiAssignment1\IbrahimAlradaddiAssignment1\obj\Debug\IbrahimAlradaddiAssignment1.exe
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\IbrahimAlradaddiAssignment1\IbrahimAlradaddiAssignment1\obj\Debug\IbrahimAlradaddiAssignment1.xml
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\IbrahimAlradaddiAssignment1\IbrahimAlradaddiAssignment1\obj\Debug\IbrahimAlradaddiAssignment1.pdb

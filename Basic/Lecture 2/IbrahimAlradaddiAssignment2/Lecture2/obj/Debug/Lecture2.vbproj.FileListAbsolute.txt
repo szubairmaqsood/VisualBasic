@@ -1,0 +1,12 @@
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\bin\Debug\Lecture2.exe.config
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\bin\Debug\Lecture2.exe
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\bin\Debug\Lecture2.pdb
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\bin\Debug\Lecture2.xml
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\obj\Debug\Lecture2.vbprojAssemblyReference.cache
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\obj\Debug\Lecture2.Form1.resources
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\obj\Debug\Lecture2.Resources.resources
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\obj\Debug\Lecture2.vbproj.GenerateResource.cache
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\obj\Debug\Lecture2.vbproj.CoreCompileInputs.cache
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\obj\Debug\Lecture2.exe
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\obj\Debug\Lecture2.xml
+C:\Users\zubair\Documents\Visual Studio 2017\Project\Fall2018Basic\Lecture2\Lecture2\obj\Debug\Lecture2.pdb
